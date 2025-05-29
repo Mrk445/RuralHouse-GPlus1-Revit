@@ -1,53 +1,39 @@
 # RuralHouse-GPlus1-Revit
 # 🏡 G+1 Rural House – Revit Project
 
-This project is a complete design of a *G+1 rural house* created in *Autodesk Revit*. It includes a 3D model, ground and first floor plans, and a custom sliding gate family.
+This is a complete design of a G+1 rural house created using Autodesk Revit. The project includes a detailed 3D model, floor plans, and a custom-made sliding gate family.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Contents
 
-- *model/* – Revit model and custom gate family
-  - RuralHouse_GPlus1.rvt
-  - CustomSlidingGate.rfa
+### 1. Model Files (/model)
+- *RuralHouse_GPlus1.rvt* – Main Revit model of the G+1 house.
+- *CustomSlidingGate.rfa* – Parametric sliding gate family used in the model.
 
-- *drawings/* – Printable PDF floor plans
-  - ground_floor_plan.pdf
-  - first_floor_plan.pdf
+### 2. CAD Drawings (/drawings)
+- Ground floor plan in DWG format.
+- First floor plan in DWG format.
 
-- *images/* – Preview images
-  - 3d_view_front.png
-  - ground_floor_plan.png
-  - first_floor_plan.png
-
----
-
-## 🖼 Preview Images
-
-### 🔹 3D Front View  
-![3D View](images/3d_view_front.png)
-
-### 🔹 Ground Floor Plan  
-![Ground Floor](images/ground_floor_plan.png)
-
-### 🔹 First Floor Plan  
-![First Floor](images/first_floor_plan.png)
+### 3. Preview Images (/images)
+- 3D front view.
+- Ground floor plan (image format).
+- First floor plan (image format).
 
 ---
 
-## 💻 How to Use
-
-- Open the .rvt file using *Revit 2023* or later.
-- Load the custom sliding gate family if not already in the model.
-- View the drawings in the drawings/ folder for quick reference or printing.
-- For quick viewing without Revit, upload the .rvt file to [Autodesk Viewer](https://viewer.autodesk.com).
+## 🛠 Software Used
+- Autodesk Revit 2023
+- Autodesk AutoCAD (for 2D drawings)
+- Basic image editing for plan previews
 
 ---
 
-## 📝 Notes
-
-- Feel free to explore, modify, or use parts of the design with credit.
+## 📌 Notes
+- All drawings and images are provided for reference and presentation purposes.
+- The Revit model is organized and ready for further development or documentation.
 
 ---
 
-Thanks for checking out my project!
+## 📜 License
+This project is open for educational and personal use. Credit is appreciated if you use or modify any part of the model.
