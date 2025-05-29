@@ -10,6 +10,7 @@ This is a complete design of a G+1 rural house created using Autodesk Revit. The
 ### 1. Model Files (/model)
 - *RuralHouse_GPlus1.rvt* – Main Revit model of the G+1 house.
 - *CustomSlidingGate.rfa* – Parametric sliding gate family used in the model.
+- TO VIEW AND DOWNLOAD REVIT FILE (click on the link)👉:  https://drive.google.com/file/d/1AxWoyCLLaqZEpEDralLNUCoKhbJR5Yc9/view?usp=sharing
 
 ### 2. CAD Drawings (/drawings)
 - Ground floor plan in DWG format.
